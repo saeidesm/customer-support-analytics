@@ -60,11 +60,6 @@ This project explores and models customer support ticket data to uncover insight
 
 ---
 
-## ✍️ Author
-
-Saeideh Esmaeili  
-[LinkedIn](#) | [Portfolio](#) | [Email](#)
-
 ---
 
 > This project simulates an industry-level customer analytics workflow, suitable for portfolios in data science and analytics roles.
